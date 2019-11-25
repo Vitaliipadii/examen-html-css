@@ -272,6 +272,8 @@ h1, h2 {
 .section-wrapper-choose {
   width: 100%;
   background-image: url(../images/bg-wrapper-choose.jpg);
+  background-size: cover;
+  background-position: center;
 }
 
 .wrapper-choose {
@@ -536,7 +538,7 @@ h1, h2 {
   color: white;
   font-size: 36px;
   font-family: "Aleo", serif;
-  margin: 60px 0;
+  margin: 100px 0 60px 0;
 }
 
 .wrapper-blog__content {
